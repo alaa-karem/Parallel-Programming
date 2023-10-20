@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1697819751 source:d:\parallel-programming-section\task-2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint-gcc.h>
+	<stdbool.h>
+	<math.h>
+
